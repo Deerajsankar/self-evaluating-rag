@@ -1,0 +1,12 @@
+# requirements.txt
+
+gradio
+langchain
+langchain-google-genai
+langchain-community
+pydantic==2.*
+pypdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+python-dotenv
