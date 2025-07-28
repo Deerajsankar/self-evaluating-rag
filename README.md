@@ -1,4 +1,4 @@
-# 🤖 AI Document Analysis Tool with Confidence Score
+# 🤖 Document Compliance Tool
 
 This project provides an interactive web application for analyzing documents using a Retrieval-Augmented Generation (RAG) pipeline. The system features a self-evaluation mechanism where the AI provides a **confidence score** for each answer, indicating how well its response is supported by the provided source documents.
 
