@@ -4,7 +4,6 @@ This project provides an interactive web application for analyzing documents usi
 
 The application is built with Python, LangChain, Google Gemini, and Gradio.
 
-![App Screenshot](https://i.imgur.com/rL45g2j.png) 
 
 ## Features
 -   **Document Upload:** Supports both PDF (`.pdf`) and plain text (`.txt`) files.
